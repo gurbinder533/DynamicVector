@@ -1,0 +1,23 @@
+/** 
+    Code  : Dynamically Allcocated Vectors 
+
+    Author: Gurbinder Singh Gill
+    email:  gill@cs.utexas.edu
+
+**/
+
+
+It contains code for Dynamically Allocated Arrays. 
+
+Raw array is started with some minimum size. As you push and pop elements, it automatically allocates more space (doubles the space) to get the 
+amortized time complexity for allocation.
+
+It also contains MOVE sematics. Move assignment and Move copy constructors.
+
+
+
+
+
+
+
+
